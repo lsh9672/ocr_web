@@ -61,16 +61,29 @@
 
 ![image](https://user-images.githubusercontent.com/56991244/164123124-e6f6af02-fa3c-4160-9df1-845d7d53dbf9.png)
 
+(시연영상)
+
+https://user-images.githubusercontent.com/56991244/164124977-9c928da8-9409-4dba-a4c0-8d9d401d9b9f.mov
+
 
 #### 일반 텍스트 추출 화면
 
 ![image](https://user-images.githubusercontent.com/56991244/164123151-d473fb81-345a-4a50-9dee-69b048f64a9e.png)
+
+(시연영상)
+
+https://user-images.githubusercontent.com/56991244/164125007-77eba9eb-33c7-480b-b3a5-b6a4077506f9.mov
+
 
 #### 표추출 결과 화면 및 엑셀변환 결과
 
 ![image](https://user-images.githubusercontent.com/56991244/164123184-f6e1c589-0e58-4165-8285-ef3391423ec6.png)
 
 ![image](https://user-images.githubusercontent.com/56991244/164123194-c6bbf43b-62f7-430c-a8fc-8a28f6d61a64.png)
+
+(시연영상)
+
+https://user-images.githubusercontent.com/56991244/164125041-ee85c79a-a773-4f88-82fe-d04c0c269900.mov
 
 
 #### 템플릿 결과 화면 - 원하는 위치만 ocr할 수 있는 기능
@@ -84,4 +97,13 @@
 ![image](https://user-images.githubusercontent.com/56991244/164123272-b466b36d-6aa5-443a-8ebe-a2759c5dae9f.png)
 
 ![image](https://user-images.githubusercontent.com/56991244/164123277-5e8f7625-216b-4c14-9c5e-bb1eeab90b0b.png)
+
+(시연영상)
+
+https://user-images.githubusercontent.com/56991244/164125076-dcb4fab9-f2e4-4d27-8c68-83a2ed4e59b4.mov
+
+
+
+
+https://user-images.githubusercontent.com/56991244/164125089-b0b53f09-2979-42ce-9b53-79eec8ff4e91.mov
 
