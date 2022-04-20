@@ -1,6 +1,6 @@
 # 캡스톤 디자인 ocr기술을 제공하는 웹 서비스(2021.03~2021.11)
 
-> ## 개발환경
+## 개발환경
 
 - os : ubuntu 20.04.3
 - IDE : vscode
@@ -9,7 +9,7 @@
 - framwork : flask(python)
 - wsgi : gunicorn
 
-> ## 구현한 기능(rest api)
+## 구현한 기능(rest api)
 
 - 회원가입, 로그인 기능(jwt를 이용하여 인증 구현)
 
@@ -44,3 +44,44 @@
   - Persistence layer(디렉토리명 - models)
 
 - pytest 라이브러리를 이용해서 단위 테스트 진행(디렉토리명 - test)
+
+
+## 구성도 및 DB
+
+![image](https://user-images.githubusercontent.com/56991244/164123085-4c1aa446-0c3b-4837-b378-3dd99589d91f.png)
+
+![image](https://user-images.githubusercontent.com/56991244/164123092-da301840-8a46-470b-b58b-350af0f063ea.png)
+
+
+## 결과물
+
+#### 로그인 및 회원가입
+
+![image](https://user-images.githubusercontent.com/56991244/164123114-75522a4a-cf88-432f-be97-66f26f38c625.png)
+
+![image](https://user-images.githubusercontent.com/56991244/164123124-e6f6af02-fa3c-4160-9df1-845d7d53dbf9.png)
+
+
+#### 일반 텍스트 추출 화면
+
+![image](https://user-images.githubusercontent.com/56991244/164123151-d473fb81-345a-4a50-9dee-69b048f64a9e.png)
+
+#### 표추출 결과 화면 및 엑셀변환 결과
+
+![image](https://user-images.githubusercontent.com/56991244/164123184-f6e1c589-0e58-4165-8285-ef3391423ec6.png)
+
+![image](https://user-images.githubusercontent.com/56991244/164123194-c6bbf43b-62f7-430c-a8fc-8a28f6d61a64.png)
+
+
+#### 템플릿 결과 화면 - 원하는 위치만 ocr할 수 있는 기능
+
+![image](https://user-images.githubusercontent.com/56991244/164123244-b99db808-b94f-4a33-8de3-94cddcfdff15.png)
+
+![image](https://user-images.githubusercontent.com/56991244/164123250-65e31f9f-fc73-45a7-b2ec-a4e579f94fa3.png)
+
+![image](https://user-images.githubusercontent.com/56991244/164123263-a42ca39d-b44b-40f3-8eb3-6e097d67ab77.png)
+
+![image](https://user-images.githubusercontent.com/56991244/164123272-b466b36d-6aa5-443a-8ebe-a2759c5dae9f.png)
+
+![image](https://user-images.githubusercontent.com/56991244/164123277-5e8f7625-216b-4c14-9c5e-bb1eeab90b0b.png)
+
